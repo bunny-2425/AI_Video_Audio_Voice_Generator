@@ -1,5 +1,4 @@
 # AI_Voice_Generator
-# AI Voice Generator
 
 ## Overview
 The **AI Voice Generator** project takes you on an exciting journey of transforming videos into meaningful audio experiences. With the power of cutting-edge AI, you can:
