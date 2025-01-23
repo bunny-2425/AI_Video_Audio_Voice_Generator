@@ -108,4 +108,4 @@ This project is licensed under the MIT License.
 Have ideas for improvement? Join us! Contributions are always welcome. Submit issues or pull requests to help us grow.
 
 ## Contact
-Got questions? Reach out at [your-email@example.com].
+Got questions? Reach out at omunde2016@gmail.com
