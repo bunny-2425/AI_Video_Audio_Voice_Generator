@@ -8,10 +8,14 @@ from pathlib import Path
 from openai import OpenAI
 import os
 import time
+import os
+from dotenv import load_dotenv
+from openai import OpenAI
 
-# Set the OpenAI API key
-api_key = "Your_API_KEY"  # Replace with your actual OpenAI API key
-client = OpenAI(api_key=api_key)
+# Load environment variables from .env file
+load_dotenv()
+# Get the OpenAI API key from the environment variables
+api_key = os.getenv("OPENAI_API_KEY")
 
 # Function to extract audio from the video
 def extract_audio_from_video(video_path):
